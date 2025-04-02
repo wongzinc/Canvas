@@ -13,7 +13,7 @@ Supports drawing, shapes, text input, image upload, undo/redo — except non-res
 |-------------------|
 | <img src="screenshots/canvas.png" width=700px> |
 
-<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
+<hr style="height:0.01px; border:none; background-color:#e0e0e0;" />
 
 ## 🔑 Features
 
@@ -25,7 +25,6 @@ Supports drawing, shapes, text input, image upload, undo/redo — except non-res
 - ↩️ **Undo / Redo**  
 - ♻️ **Clear Canvas** with one click
 
-<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +35,6 @@ Supports drawing, shapes, text input, image upload, undo/redo — except non-res
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> | **JavaScript** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="20"/> | **Firebase** Realtime Database |
 
-<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
 ## 🤝 Contributing
 
@@ -49,7 +47,6 @@ If you have suggestions or improvements:
 
 **Don't forget to ⭐ this repo if you like it!**
 
-<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
 ## 🚩 Top Contributor
 
@@ -57,20 +54,17 @@ If you have suggestions or improvements:
   <img src="screenshots/coshun.png" width="100" style="border-radius: 50%; margin-top: 10px" />
 </div>
 
-<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
 ## 📄 License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE.TXT) file for more information.
 
-<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
 ## 📬 Contact
 
 👦 Lazysoup
 📧 noobiestwong@gmail.com
 
-<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
 ## 🙏 Acknowledgements
 
