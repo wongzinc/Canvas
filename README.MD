@@ -1,11 +1,10 @@
 # 🎨 My Awesome Web Canvas 
 
 A web-based drawing canvas app built with **Vanilla JavaScript**.  
-Supports drawing, shapes, text input, image upload, undo/redo — except non-responsive UI
+Supports drawing, shapes, text input, image upload, undo/redo — except non-responsive **UI**
 
 🌐 **Live Demo**: [👉 Try it now](https://your-demo-link.com)
 
-<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
 ## 🖼️ Screenshots
 
@@ -13,7 +12,6 @@ Supports drawing, shapes, text input, image upload, undo/redo — except non-res
 |-------------------|
 | <img src="screenshots/canvas.png" width=700px> |
 
-<hr style="height:0.01px; border:none; background-color:#e0e0e0;" />
 
 ## 🔑 Features
 
