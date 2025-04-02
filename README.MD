@@ -1,6 +1,6 @@
 ![](screenshots/readme_frieren.avif)
 
-# 🎨 My Awesome Web Canvas 
+# My Awesome Web Canvas 
 
 A web-based drawing canvas app built with **Vanilla JavaScript**.  
 Supports drawing, shapes, text input, image upload, undo/redo — except non-responsive **UI**
