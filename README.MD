@@ -1,3 +1,5 @@
+![](screenshots/readme_frieren.avif)
+
 # 🎨 My Awesome Web Canvas 
 
 A web-based drawing canvas app built with **Vanilla JavaScript**.  
