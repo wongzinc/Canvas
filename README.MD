@@ -74,3 +74,45 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 - [Devicon](https://devicon.dev/)
 - [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)
+- [Coloris](https://coloris.js.org/)
+
+---
+
+### Scoring
+
+| **Basic components** | **Check** |
+| :------------------: | :------:  |
+| Basic control tools  |     ✅    |
+| Text input           |     ✅    |
+| Cursor icon          |     ✅     |
+| Refresh button       |     ✅     |
+
+| **Advanced tools**     | **Check**  |
+| :--------------------- | :-------:  |
+| Different brush shapes |     ✅     |
+| Un/Re-do button        |     ✅     |
+| Image tool             |     ✅     |
+| Download               |     ✅     |
+
+| **Other useful widgets** | **Check** |
+| :----------------------- | :-------: | 
+|     Cut      |      ✅   |
+|     Copy      |      ✅   |
+|     Paste      |      ✅   |
+
+
+### Bonus Function description
+
+    After the selected region is copied, click on paste button to switch function then click on the canvas to paste.
+
+### Web page link
+
+##### Method 1: Firebase serve
+    Firebase serve -> localhost:5000
+
+##### Method 2: github.io
+    [wongzinc.github.io ](https://wongzinc.github.io/Canvas/)
+
+### Others (Optional)
+
+    I use clear button instead of refresh button just for clarifying.
