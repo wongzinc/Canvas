@@ -14,7 +14,7 @@ document.querySelector('[data-coloris]').addEventListener('change', (e) => {
 
 // Tool Selection Event
 let selectedTool = 'Pencil'
-function setTool(tool) {
+const setTool = (tool) => {
   selectedTool = tool;
   if (tool === 'Pencil') {
     canvas.style.cursor = 'url("icon/brush.png") 16 28, auto'
@@ -74,7 +74,7 @@ const drawing = (e) => {
     } else if (selectedTool ==='Cut') {
         ctx.putImageData(savedImage,0,0)
         ctx.beginPath()
-        ctx.setLineDash([5,3])
+        ctx.setLineDash([10,8])
         ctx.rect(startX,startY,e.offsetX-startX,e.offsetY-startY)
         ctx.stroke()
         ctx.setLineDash([])
@@ -86,7 +86,7 @@ const drawing = (e) => {
     } else if (selectedTool=='Copy') {
         ctx.putImageData(savedImage,0,0)
         ctx.beginPath()
-        ctx.setLineDash([5,3])
+        ctx.setLineDash([10,8])
         ctx.rect(startX,startY,e.offsetX-startX,e.offsetY-startY)
         ctx.stroke()
         ctx.setLineDash([])
