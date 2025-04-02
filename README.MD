@@ -1,4 +1,4 @@
-![](screenshots/readme_frieren.avif)
+![1st Frame](screenshots/readme_frieren.avif)
 
 # My Awesome Web Canvas 
 
