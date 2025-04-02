@@ -1,29 +1,82 @@
-# 🎨 My Awesome Web Canvas
+# 🎨 My Awesome Web Canvas 
 
-A web-based canvas drawing app built with Vanilla Javascript.  
-Supports pencil, eraser, shapes, text input, and image upload, download — all in a sleek UI!
+A web-based drawing canvas app built with **Vanilla JavaScript**.  
+Supports drawing, shapes, text input, image upload, undo/redo — except non-responsive UI
 
-🚀 **Live Demo**: [Click here to try it](https://your-demo-link.com)
+🌐 **Live Demo**: [👉 Try it now](https://your-demo-link.com)
+
+<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
 ## 🖼️ Screenshots
 
-| Drawing Interface|
-|------------------|
-| ![](screenshots/canvas.png)|
+| Drawing Interface |
+|-------------------|
+| <img src="screenshots/canvas.png" width=700px> |
 
-## ✨ Features
+<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
 
-- 🎨 Pencil & Eraser with size controller
-- 🔲 Draw shapes: Line, Circle, Rectangle, Triangle
-- 🖋️ Text input with font selection
-- 🖼️ Image upload & paste
-- 💾 Download canvas as PNG
-- ↩️ Undo & Redo
-- 🗑️ Reset
+## 🔑 Features
 
-## 🛠 Tech Stack
+- 🖌️ **Free Drawing**: Pencil & Eraser with adjustable size  
+- 📐 **Shapes**: Line, Circle, Rectangle, Triangle  
+- 🖊️ **Text Input** with font selector  
+- 🖼️ **Image Upload** and Paste  
+- 💾 **Download** canvas as PNG  
+- ↩️ **Undo / Redo**  
+- ♻️ **Clear Canvas** with one click
 
-- HTML5 Canvas
-- JavaScript (ES6)
-- CSS Flexbox/Grid
-- Firebase Realtime Database
+<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
+
+## 🛠️ Tech Stack
+
+| Tech | Description |
+|------|-------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20"/> | **HTML5** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20"/> | **CSS3** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> | **JavaScript** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="20"/> | **Firebase** Realtime Database |
+
+<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community so special!  
+If you have suggestions or improvements:
+
+1. 🍴 Fork this repo  
+2. 📥 Create a pull request  
+3. 💬 Open an issue with the tag `enhancement`
+
+**Don't forget to ⭐ this repo if you like it!**
+
+<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
+
+## 🚩 Top Contributor
+
+<div style="text-align: center">
+  <img src="screenshots/coshun.png" width="100" style="border-radius: 50%; margin-top: 10px" />
+</div>
+
+<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
+
+## 📄 License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE.TXT) file for more information.
+
+<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
+
+## 📬 Contact
+
+👦 Lazysoup
+📧 noobiestwong@gmail.com
+
+<hr style="height:0.1px; border:none; background-color:#e0e0e0;" />
+
+## 🙏 Acknowledgements
+
+- [ChatGPT](https://chat.openai.com/)
+- [Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [Emojipedia](https://emojipedia.org/)
+- [Devicon](https://devicon.dev/)
+- [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)
