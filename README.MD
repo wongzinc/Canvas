@@ -1,11 +1,11 @@
 ![1st Frame](screenshots/readme_frieren.avif)
 
-# My Awesome Web Canvas 
+# My Awesome Web Canvas
 
 A web-based drawing canvas app built with **Vanilla JavaScript**.  
 Supports drawing, shapes, text input, image upload, undo/redo — except non-responsive **UI**
 
-🌐 **Live Demo**: [👉 Try it now](https://your-demo-link.com)
+🌐 **Live Demo**: [👉 Try it now](https://wongzinc.github.io/Canvas/)
 
 
 ## 🖼️ Screenshots
